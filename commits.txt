@@ -1,0 +1,19 @@
+commit d598fc3088a51d7a6118794dd31c6aeb7a3d1eb8
+Author: Julin Maloof <jnmaloof@ucdavis.edu>
+Date:   Thu Apr 8 14:15:42 2021 -0700
+
+    Update and rename Valde_Weekend to Valde_and_Julin_Weekend
+    
+    added myplans
+
+commit 9de2515d124cc28fda9b29986aa56050cdda5982
+Author: Valdemar Kovaliov <vkovaliov@ucdavis.edu>
+Date:   Thu Apr 8 20:50:52 2021 +0000
+
+    Added Valdemar's file
+
+commit 04af0bbd4cf00acf203958bf3f6a9cdb39c0dd25
+Author: ValdemarKov <81781641+ValdemarKov@users.noreply.github.com>
+Date:   Thu Apr 8 13:42:10 2021 -0700
+
+    Initial commit
